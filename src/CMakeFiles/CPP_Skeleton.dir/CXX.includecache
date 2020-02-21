@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jake/code/cpp_skeleton/src/main.cpp
+stdio.h
+-
+functional
+-
+memory
+-
+cstdlib
+-
+string
+-
+
