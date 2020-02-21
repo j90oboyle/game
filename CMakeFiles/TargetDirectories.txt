@@ -1,0 +1,8 @@
+/home/jake/code/game/CMakeFiles/rebuild_cache.dir
+/home/jake/code/game/CMakeFiles/edit_cache.dir
+/home/jake/code/game/src/CMakeFiles/rebuild_cache.dir
+/home/jake/code/game/src/CMakeFiles/Game.dir
+/home/jake/code/game/src/CMakeFiles/edit_cache.dir
+/home/jake/code/game/lib/CMakeFiles/rebuild_cache.dir
+/home/jake/code/game/lib/CMakeFiles/game.dir
+/home/jake/code/game/lib/CMakeFiles/edit_cache.dir

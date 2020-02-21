@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/CPP_Skeleton.dir/main.cpp.o  -o CPP_Skeleton -Wl,-rpath,/home/jake/code/cpp_skeleton/lib ../lib/libcpp_skell.so 

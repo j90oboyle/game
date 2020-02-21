@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/TEST.dir/main.cpp.o  -o TEST -Wl,-rpath,/home/jake/code/game/lib ../lib/libgame.so 
